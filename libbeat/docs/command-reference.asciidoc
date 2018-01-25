@@ -26,7 +26,7 @@
 [[command-line-options]]
 === {beatname_uc} commands
 
-{beatname_uc} provides a command-line interface for running the Beat and
+{beatname_uc} provides a command-line interface for starting {beatname_uc} and
 performing common tasks, like testing configuration files and loading
 dashboards. The command-line also supports <<global-flags,global flags>>
 for controlling global behaviors.
