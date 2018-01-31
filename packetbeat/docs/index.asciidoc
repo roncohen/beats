@@ -9,6 +9,7 @@ include::{asciidoc-dir}/../../shared/attributes.asciidoc[]
 :beatname_uc: Packetbeat
 :beatname_pkg: {beatname_lc}
 :beat_default_index_prefix: {beatname_lc}
+:has_ml_jobs: yes
 
 include::../../libbeat/docs/shared-beats-attributes.asciidoc[]
 
